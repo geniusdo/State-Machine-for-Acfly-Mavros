@@ -1,6 +1,8 @@
 # State-Machine-for-Acfly-Mavros
 a light weighted state machine for acfly mavros based on boost::sml  
-**note:** you should always just read the `state-machine.hpp` file for further detailed usage. 
+**note:** you should always just read the `state-machine.hpp` file for further detailed usage.  
+  
+**send me a star if you find this work helpful, ty!**  
 ### USAGE  
 This is a brief explanation of how to use this state machine.  
 * include the `state-machine.hpp` in your `*.cpp` file  
